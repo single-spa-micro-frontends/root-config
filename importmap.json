@@ -10,7 +10,8 @@
     "react-dom/client": "https://ga.jspm.io/npm:react-dom@18.2.0/dev.client.js",
     "react/jsx-dev-runtime": "https://ga.jspm.io/npm:react@18.2.0/dev.jsx-dev-runtime.js",
     "react/jsx-runtime": "https://ga.jspm.io/npm:react@18.2.0/dev.jsx-runtime.js",
-    "single-spa": "https://ga.jspm.io/npm:single-spa@5.9.5/lib/esm/single-spa.min.js"
+    "single-spa": "https://ga.jspm.io/npm:single-spa@5.9.5/lib/esm/single-spa.min.js",
+    "react-icons": "https://cdn.jsdelivr.net/npm/react-icons@5.4.0/lib/index.min.js"
   },
   "scopes": {
     "https://ga.jspm.io/": {
